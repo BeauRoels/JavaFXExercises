@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="FXVoorbeeld1.jnlp">
+    <information>
+        <title>FXVoorbeeld1</title>
+        <vendor>lvu621</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="10.0.2+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="FXVoorbeeld1.jar" size="37060" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="main.StartUp" name="StartUp"/>
+</jnlp>
+
